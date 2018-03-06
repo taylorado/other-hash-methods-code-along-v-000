@@ -13,3 +13,4 @@ def get_the_keys(groceries)
   groceries.collect do |keys|
     puts "#{keys}"
 end
+end
